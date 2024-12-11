@@ -7,8 +7,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **iam.abhishekbarii@gmail.com** - **https://parichay-patra-mu.vercel.app/**
-
+- 📫 How to reach me **iam.abhishekbarii@gmail.com** - **[https://parichay-patra-mu.vercel.app/**](https://port-folio-ruddy-seven.vercel.app/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhi bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi bari" height="30" width="40" /></a>
